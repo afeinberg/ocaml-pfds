@@ -1,0 +1,3 @@
+<lib_test/test.*> : pkg_oUnit
+<lib_test/*.ml> : pkg_oUnit
+"lib": include

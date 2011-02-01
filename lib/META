@@ -1,0 +1,5 @@
+name = "pfds"
+version = "0.1"
+description = "Purely Functional Data Structures in OCaml"
+archive(byte) = "pfds.cma"
+archive(native) = "pfds.cmxa"
